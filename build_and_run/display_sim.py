@@ -1,4 +1,6 @@
-from base_intersection import *
+# IMPORT THE FILE THAT YOU WANT TO RUN
+# Ex. import roundabout to run the roundabout simulation
+from roundabout2 import *
 
 #defining the intersection
 intersection = Intersection()
